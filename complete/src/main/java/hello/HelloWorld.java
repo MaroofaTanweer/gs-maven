@@ -1,3 +1,4 @@
+// This is a test.
 package hello;
 
 import org.joda.time.LocalTime;
